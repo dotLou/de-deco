@@ -1,13 +1,10 @@
 @import "bootstrap";
+@import "bootstrap-responsive";
 
 /* universal */
 
 html {
   overflow-y: scroll;
-}
-
-body {
-  padding-top: 60px;
 }
 
 section {
@@ -60,9 +57,7 @@ p {
   margin-right: 10px;
   font-size: 1.7em;
   color: #fff;
-  text-transform: uppercase;
   letter-spacing: -1px;
-  padding-top: 9px;
   font-weight: bold;
   line-height: 1;
 }
@@ -75,6 +70,7 @@ p {
 {
   font-size:1.5em;
 }
+
 /* footer */
 
 footer {
@@ -106,3 +102,13 @@ footer ul li {
   margin-left: 10px;
 }
 
+
+/* Custom Table Styles */
+td.success, th.success
+{
+  background-color: #dff0d8;
+}
+td.error, th.error
+{
+  background-color: #f2dede;
+}

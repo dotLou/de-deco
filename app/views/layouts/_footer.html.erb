@@ -4,9 +4,7 @@
   </small>
   <nav>
     <ul>
-      <li><%= link_to "Accueil/Home", root_path %></li>
-      <li><%= link_to "Prix/Prices", prices_path %></li>
-      <li><%= link_to "Contactez Nous/Contact Us", contact_path %></li>
+      <li><%= language_link(yield(:language)) %></li>
     </ul>
   </nav>
 </footer>

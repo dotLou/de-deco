@@ -1,12 +1,12 @@
     <header class="navbar navbar-fixed-top navbar-inverse">
       <div class="navbar-inner">
         <div class="container">
-          <%= link_to image_tag("logo.png",alt: "De-deco Pave Uni - Interlock"), root_path, id: "logo" %>
+          <%= logo_image(yield(:language)) %>
           <nav>
-            <ul class="nav pull-right">
-              <li><%= link_to "Accueil/Home", root_path %></li>
-              <li><%= link_to "Prix/Prices", prices_path %></li>
-              <li><%= link_to "Contactez Nous/Contact Us", contact_path %></li>
+            <ul class="nav pull-right large">
+              <li><%= link_home(yield(:language)) %>
+              <li><%= link_prices(yield(:language)) %>
+              <li><%= link_contact(yield(:language)) %>
             </ul>
           </nav>
         </div>
