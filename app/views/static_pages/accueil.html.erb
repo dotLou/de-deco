@@ -1,33 +1,5 @@
 <% provide(:language, 'french') %>
 <div class="center hero-unit">
 <h1>Accueil</h1>
-
-<!--  Carousel - consult the Twitter Bootstrap docs at
-      http://twitter.github.com/bootstrap/javascript.html#carousel -->
-<div id="home-carousel" class="carousel slide"><!-- class of slide for animation -->
-  <div class="carousel-inner">
-    <div class="item active"><!-- class of active since it's the first item -->
-      <%= image_tag("photos/vars_entryway.jpg", alt: "Entryway in Vars")  %>
-      <div class="carousel-caption">
-        <p>Entr&eacute;e &agrave; Vars</p>
-      </div>
-    </div>
-    <div class="item"><!-- class of active since it's the first item -->
-      <%= image_tag("photos/vars_steps.jpg", alt: "Entryway in Vars")  %>
-      <div class="carousel-caption">
-        <p>Escalier &agrave; Vars</p>
-      </div>
-    </div>
-  </div>
-</div><!-- /.carousel-inner -->
-  <!--  Next and Previous controls below
-        href values must reference the id for this carousel -->
-    <a class="carousel-control left" href="#home-carousel" data-slide="prev">&lsaquo;</a>
-    <a class="carousel-control right" href="#home-carousel" data-slide="next">&rsaquo;</a>
-</div><!-- /.carousel -->
-<script>
-  $(document).ready(function(){
-    $('.carousel').carousel();
-  });
-</script>
+  <%= render "layouts/gallery" %>
 </div>

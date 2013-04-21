@@ -117,8 +117,16 @@ td.error, th.error
   background-color: #f2dede;
 }
 
-/* Overrides */
-.carousel-caption
+/* Images */
+.img-polaroid
 {
-  color:#fff;
+  margin:auto;
+}
+.left
+{
+  margin-left:10px;
+}
+.right
+{
+  margin-right:20px;
 }
