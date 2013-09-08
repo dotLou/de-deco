@@ -20,38 +20,53 @@ module ApplicationHelper
   end
   def email_contact
     email = "de_deco@hotmail.ca"
-    email
+    link_to email, 'mailto:'+email
   end
   def link_home(language)
     case language.downcase
       when "english"
-        link_to "Home", home_path
+        link_to " Home", home_path, class: "glyphicon glyphicon-home"
       else
-        link_to "Accueil", root_path
+        link_to " Accueil", root_path, class: "glyphicon glyphicon-home"
     end
   end
   def link_prices(language)
     case language.downcase
       when "english"
-        link_to "Prices", prices_path
+        link_to " Prices", prices_path, class: "glyphicon glyphicon-briefcase"
       else
-        link_to "Prix", prix_path
+        link_to " Prix", prix_path, class: "glyphicon glyphicon-briefcase"
     end
   end
   def link_contact(language)
     case language.downcase
       when "english"
-        link_to "Contact Us", contact_path
+        link_to " Contact Us", contact_path, class: "glyphicon glyphicon-phone"
       else
-        link_to "Contactez Nous", contactez_path
+        link_to " Contactez Nous", contactez_path, class: "glyphicon glyphicon-phone"
     end
   end
-  def language_link(language)
+  def link_language(language)
+    current_path = request.path
     case language.downcase
       when "english"
-        link_to "Version fran\u00e7aise", accueil_path
+        case current_path.downcase
+          when prices_path
+            link_to " Fran\u00e7ais", prix_path+"?lang=f", class: "glyphicon glyphicon-globe"
+          when contact_path
+            link_to " Fran\u00e7ais", contactez_path+"?lang=f", class: "glyphicon glyphicon-globe"
+          else
+            link_to " Fran\u00e7ais", accueil_path+"?lang=f", class: "glyphicon glyphicon-globe"
+        end
       else
-        link_to "English Version", home_path
+        case current_path.downcase
+          when prix_path
+            link_to " English", prices_path+"?lang=e", class: "glyphicon glyphicon-globe"
+          when contactez_path
+            link_to " English", contact_path+"?lang=e", class: "glyphicon glyphicon-globe"
+          else
+            link_to " English", home_path+"?lang=e", class: "glyphicon glyphicon-globe"
+        end
     end
   end
   def logo_image(language)
@@ -60,6 +75,22 @@ module ApplicationHelper
         link_to image_tag("logo.png",alt: "D\u00e9-d\u00e9co Pav\00e9 Interlock"), home_path,id: "logo"
       else
         link_to image_tag("logo.png",alt: "D\u00e9-d\u00e9co Pav\00e9 Uni"), root_path,id:"logo"
+    end
+  end
+  def set_language(language)
+    case language.downcase
+      when "english"
+        cookies.permanent[:language] = "english"
+      else
+        cookies.permanent[:language] = "french"
+    end
+  end
+  def swap_language(current_language)
+    case current_language.downcase
+      when "english"
+        set_language("french")
+      else
+        set_language("english")
     end
   end
 end

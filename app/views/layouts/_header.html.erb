@@ -1,14 +1,27 @@
-    <header class="navbar navbar-fixed-top navbar-inverse">
-      <div class="navbar-inner">
-        <div class="container">
+<div class="navbar-wrapper">
+  <div class="container"> <!-- container 1 -->
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container"> <!-- container 2 -->
+
+        <!-- .navbar-toggle is used as the toggle for collapsed navbar content -->
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+
+        <div class="navbar-brand">
           <%= logo_image(yield(:language)) %>
-          <nav>
-            <ul class="nav pull-right large">
-              <li><%= link_home(yield(:language)) %>
-              <li><%= link_prices(yield(:language)) %>
-              <li><%= link_contact(yield(:language)) %>
-            </ul>
-          </nav>
         </div>
-      </div>
-    </header>
+        <div class="nav-collapse collapse navbar-responsive-collapse pull-right">
+          <ul class="nav navbar-nav">
+            <li><%= link_home(yield(:language)) %></li>
+            <li><%= link_prices(yield(:language)) %></li>
+            <li><%= link_contact(yield(:language)) %></li>
+            <li><%= link_language(yield(:language)) %></li>
+          </ul> <!-- nav navbar-nav -->
+        </div> <!-- nav-collapse collapse navbar-responsive-collapse pull-right -->
+      </div> <!-- container 2 -->
+    </div> <!-- navbar navbar-inverse -->
+  </div> <!-- container 1 -->
+</div> <!-- navbar-wrapper -->

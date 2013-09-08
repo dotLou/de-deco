@@ -1,44 +1,45 @@
-<!--  Carousel - consult the Twitter Bootstrap docs at
-      http://twitter.github.com/bootstrap/javascript.html#carousel -->
 <div id="home-carousel" class="carousel slide"><!-- class of slide for animation -->
   <div class="carousel-inner">
 
     <div class="item active"><!-- class of active since it's the first item -->
-      <%= image_tag("photos/vars_front_1.jpg", alt: "", class:'img-polaroid')  %>
+      <%= image_tag("photos/vars_front_1.jpg", alt: "", class:'img-thumbnail')  %>
     </div>
 
     <div class="item"><!-- class of active since it's the first item -->
-      <%= image_tag("photos/vars_entryway.jpg", alt: "", class:'img-polaroid')  %>
+      <%= image_tag("photos/vars_entryway.jpg", alt: "", class:'img-thumbnail')  %>
     </div>
 
     <div class="item"><!-- class of active since it's the first item -->
-      <%= image_tag("photos/metcalfe_pathway.jpg", alt: "", class:'img-polaroid')  %>
+      <%= image_tag("photos/metcalfe_pathway.jpg", alt: "", class:'img-thumbnail')  %>
     </div>
     <div class="item"><!-- class of active since it's the first item -->
-      <%= image_tag("photos/metcalfe_stairs.jpg", alt: "", class:'img-polaroid')  %>
+      <%= image_tag("photos/metcalfe_stairs.jpg", alt: "", class:'img-thumbnail')  %>
     </div>
     <div class="item"><!-- class of active since it's the first item -->
-      <%= image_tag("photos/ottawa_backyard_1.jpg", alt: "", class:'img-polaroid')  %>
+      <%= image_tag("photos/ottawa_backyard_1.jpg", alt: "", class:'img-thumbnail')  %>
     </div>
     <div class="item"><!-- class of active since it's the first item -->
-      <%= image_tag("photos/ottawa_house1.jpg", alt: "", class:'img-polaroid')  %>
+      <%= image_tag("photos/ottawa_house1.jpg", alt: "", class:'img-thumbnail')  %>
     </div>
     <div class="item"><!-- class of active since it's the first item -->
-      <%= image_tag("photos/vars_steps.jpg", alt: "", class:'img-polaroid')  %>
+      <%= image_tag("photos/vars_steps.jpg", alt: "", class:'img-thumbnail')  %>
     </div>
     <div class="item"><!-- class of active since it's the first item -->
-      <%= image_tag("photos/retaining_wall_gat.jpg", alt: "", class:'img-polaroid')  %>
+      <%= image_tag("photos/retaining_wall_gat.jpg", alt: "", class:'img-thumbnail')  %>
     </div>
 
-  </div>
-</div><!-- /.carousel-inner -->
-  <!--  Next and Previous controls below
-        href values must reference the id for this carousel -->
-    <a class="carousel-control left" href="#home-carousel" data-slide="prev">&lsaquo;</a>
-    <a class="carousel-control right" href="#home-carousel" data-slide="next">&rsaquo;</a>
+  </div><!-- /.carousel-inner -->
+    <a class="carousel-control left" href="#home-carousel" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left circle"></span>
+    </a>
+    <a class="carousel-control right" href="#home-carousel" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right circle"></span>
+    </a>
 </div><!-- /.carousel -->
 <script>
   $(document).ready(function(){
-    $('.carousel').carousel();
+    $('.carousel').carousel({
+      interval: 3000
+    });
   });
 </script>
