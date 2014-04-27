@@ -88,10 +88,10 @@ td.error, th.error {
   color: #000 !important; }
 
 .circle {
-  border-radius: 70% !important;
+  border-radius: 50% !important;
   /* width and height must be equal */
-  width: 50px !important;
-  height: 50px !important;
+  width: 40px !important;
+  height: 40px !important;
   background-color: #fff !important;
   vertical-align: bottom !important; }
 
