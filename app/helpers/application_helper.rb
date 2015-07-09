@@ -30,14 +30,6 @@ module ApplicationHelper
         link_to " Accueil", root_path, class: "glyphicon glyphicon-home"
     end
   end
-  def link_prices(language)
-    case language.downcase
-      when "english"
-        link_to " Prices", prices_path, class: "glyphicon glyphicon-briefcase"
-      else
-        link_to " Prix", prix_path, class: "glyphicon glyphicon-briefcase"
-    end
-  end
   def link_contact(language)
     case language.downcase
       when "english"
@@ -51,8 +43,6 @@ module ApplicationHelper
     case language.downcase
       when "english"
         case current_path.downcase
-          when prices_path
-            link_to " Fran\u00e7ais", prix_path+"?lang=f", class: "glyphicon glyphicon-globe"
           when contact_path
             link_to " Fran\u00e7ais", contactez_path+"?lang=f", class: "glyphicon glyphicon-globe"
           else
@@ -60,8 +50,6 @@ module ApplicationHelper
         end
       else
         case current_path.downcase
-          when prix_path
-            link_to " English", prices_path+"?lang=e", class: "glyphicon glyphicon-globe"
           when contactez_path
             link_to " English", contact_path+"?lang=e", class: "glyphicon glyphicon-globe"
           else

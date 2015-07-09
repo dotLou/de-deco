@@ -2,12 +2,10 @@ DeDeco::Application.routes.draw do
 #french routes
   root to: 'static_pages#accueil'
   match '/accueil', to: 'static_pages#accueil'
-  match '/prix', to: 'static_pages#prix'
   match '/contactez', to: 'static_pages#contactez'
 
 #english routes
   match '/home', to: 'static_pages#home'
-  match '/prices', to: 'static_pages#prices'
   match '/contact', to: 'static_pages#contact'
 
   # The priority is based upon order of creation:
