@@ -2,7 +2,6 @@ source 'https://rubygems.org'
 
 gem 'rails', '3.2'
 gem 'sass','3.2.10'
-gem 'pg'
 
 group :development, :test do
   gem 'rspec-rails', '2.11.0'
