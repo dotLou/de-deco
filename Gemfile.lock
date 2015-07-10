@@ -89,6 +89,7 @@ GEM
     multi_json (1.9.2)
     nokogiri (1.6.1)
       mini_portile (~> 0.5.0)
+    pg (0.17.1)
     polyglot (0.3.4)
     pry (0.9.12.6)
       coderay (~> 1.0)
@@ -174,6 +175,7 @@ DEPENDENCIES
   guard-rspec (= 1.2.1)
   guard-spork!
   jquery-rails (= 2.0.2)
+  pg
   rails (= 3.2)
   rb-fsevent (= 0.9.1)
   rspec-rails (= 2.11.0)
