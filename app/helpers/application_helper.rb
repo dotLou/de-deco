@@ -60,9 +60,9 @@ module ApplicationHelper
   def logo_image(language)
     case language.downcase
       when "english"
-        link_to image_tag("logo.png",alt: "D\u00e9-d\u00e9co Pav\00e9 Interlock"), home_path,id: "logo"
+        link_to image_tag("logo.png",alt: "De-deco Pave Uni Interlock"), home_path,id: "logo"
       else
-        link_to image_tag("logo.png",alt: "D\u00e9-d\u00e9co Pav\00e9 Uni"), root_path,id:"logo"
+        link_to image_tag("logo.png",alt: "De-deco Pave Uni Interlock"), root_path,id:"logo"
     end
   end
   def set_language(language)

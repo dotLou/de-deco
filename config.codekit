@@ -1,12 +1,48 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "16895",
+"creatorBuild": "19033",
 "files": {
+	"\/app\/assets\/css\/application.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/css\/application.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/css\/bootstrap-glyphicons.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/css\/bootstrap-glyphicons.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/css\/bootstrap.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/css\/bootstrap.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/app\/assets\/css\/custom.css.css": {
 		"fileType": 16,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/app\/assets\/css\/custom.css.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/css\/static_pages.css.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/css\/static_pages.css.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -42,183 +78,183 @@
 		"outputAbbreviatedPath": "\/app\/assets\/images\/logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/app\/assets\/images\/photos\/metcalfe_pathway.jpg": {
+	"\/app\/assets\/images\/photos\/1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 82638,
-		"inputAbbreviatedPath": "\/app\/assets\/images\/photos\/metcalfe_pathway.jpg",
-		"outputAbbreviatedPath": "\/app\/assets\/images\/photos\/metcalfe_pathway.jpg",
+		"initialSize": 162279,
+		"inputAbbreviatedPath": "\/app\/assets\/images\/photos\/1.jpg",
+		"outputAbbreviatedPath": "\/app\/assets\/images\/photos\/1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/app\/assets\/images\/photos\/metcalfe_stairs.jpg": {
+	"\/app\/assets\/images\/photos\/10.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 86519,
-		"inputAbbreviatedPath": "\/app\/assets\/images\/photos\/metcalfe_stairs.jpg",
-		"outputAbbreviatedPath": "\/app\/assets\/images\/photos\/metcalfe_stairs.jpg",
+		"initialSize": 360725,
+		"inputAbbreviatedPath": "\/app\/assets\/images\/photos\/10.jpg",
+		"outputAbbreviatedPath": "\/app\/assets\/images\/photos\/10.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/app\/assets\/images\/photos\/originals\/metcalfe_pathway.jpg": {
+	"\/app\/assets\/images\/photos\/11.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 143325,
-		"inputAbbreviatedPath": "\/app\/assets\/images\/photos\/originals\/metcalfe_pathway.jpg",
-		"outputAbbreviatedPath": "\/app\/assets\/images\/photos\/originals\/metcalfe_pathway.jpg",
+		"initialSize": 156040,
+		"inputAbbreviatedPath": "\/app\/assets\/images\/photos\/11.jpg",
+		"outputAbbreviatedPath": "\/app\/assets\/images\/photos\/11.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/app\/assets\/images\/photos\/originals\/metcalfe_stairs.jpg": {
+	"\/app\/assets\/images\/photos\/12.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 122435,
-		"inputAbbreviatedPath": "\/app\/assets\/images\/photos\/originals\/metcalfe_stairs.jpg",
-		"outputAbbreviatedPath": "\/app\/assets\/images\/photos\/originals\/metcalfe_stairs.jpg",
+		"initialSize": 621723,
+		"inputAbbreviatedPath": "\/app\/assets\/images\/photos\/12.jpg",
+		"outputAbbreviatedPath": "\/app\/assets\/images\/photos\/12.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/app\/assets\/images\/photos\/originals\/ottawa_backyard_1.jpg": {
+	"\/app\/assets\/images\/photos\/13.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 107843,
-		"inputAbbreviatedPath": "\/app\/assets\/images\/photos\/originals\/ottawa_backyard_1.jpg",
-		"outputAbbreviatedPath": "\/app\/assets\/images\/photos\/originals\/ottawa_backyard_1.jpg",
+		"initialSize": 211884,
+		"inputAbbreviatedPath": "\/app\/assets\/images\/photos\/13.jpg",
+		"outputAbbreviatedPath": "\/app\/assets\/images\/photos\/13.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/app\/assets\/images\/photos\/originals\/ottawa_house1.jpg": {
+	"\/app\/assets\/images\/photos\/14.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 109152,
-		"inputAbbreviatedPath": "\/app\/assets\/images\/photos\/originals\/ottawa_house1.jpg",
-		"outputAbbreviatedPath": "\/app\/assets\/images\/photos\/originals\/ottawa_house1.jpg",
+		"initialSize": 201700,
+		"inputAbbreviatedPath": "\/app\/assets\/images\/photos\/14.jpg",
+		"outputAbbreviatedPath": "\/app\/assets\/images\/photos\/14.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/app\/assets\/images\/photos\/originals\/retaining_wall_gat.jpg": {
+	"\/app\/assets\/images\/photos\/15.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 561649,
-		"inputAbbreviatedPath": "\/app\/assets\/images\/photos\/originals\/retaining_wall_gat.jpg",
-		"outputAbbreviatedPath": "\/app\/assets\/images\/photos\/originals\/retaining_wall_gat.jpg",
+		"initialSize": 140917,
+		"inputAbbreviatedPath": "\/app\/assets\/images\/photos\/15.jpg",
+		"outputAbbreviatedPath": "\/app\/assets\/images\/photos\/15.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/app\/assets\/images\/photos\/originals\/vars_entryway.jpg": {
+	"\/app\/assets\/images\/photos\/16.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 96693,
-		"inputAbbreviatedPath": "\/app\/assets\/images\/photos\/originals\/vars_entryway.jpg",
-		"outputAbbreviatedPath": "\/app\/assets\/images\/photos\/originals\/vars_entryway.jpg",
+		"initialSize": 128466,
+		"inputAbbreviatedPath": "\/app\/assets\/images\/photos\/16.jpg",
+		"outputAbbreviatedPath": "\/app\/assets\/images\/photos\/16.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/app\/assets\/images\/photos\/originals\/vars_front_1.jpg": {
+	"\/app\/assets\/images\/photos\/2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 88371,
-		"inputAbbreviatedPath": "\/app\/assets\/images\/photos\/originals\/vars_front_1.jpg",
-		"outputAbbreviatedPath": "\/app\/assets\/images\/photos\/originals\/vars_front_1.jpg",
+		"initialSize": 159249,
+		"inputAbbreviatedPath": "\/app\/assets\/images\/photos\/2.jpg",
+		"outputAbbreviatedPath": "\/app\/assets\/images\/photos\/2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/app\/assets\/images\/photos\/originals\/vars_steps.jpg": {
+	"\/app\/assets\/images\/photos\/3.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 90399,
-		"inputAbbreviatedPath": "\/app\/assets\/images\/photos\/originals\/vars_steps.jpg",
-		"outputAbbreviatedPath": "\/app\/assets\/images\/photos\/originals\/vars_steps.jpg",
+		"initialSize": 171849,
+		"inputAbbreviatedPath": "\/app\/assets\/images\/photos\/3.jpg",
+		"outputAbbreviatedPath": "\/app\/assets\/images\/photos\/3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/app\/assets\/images\/photos\/ottawa_backyard_1.jpg": {
+	"\/app\/assets\/images\/photos\/4.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 46257,
-		"inputAbbreviatedPath": "\/app\/assets\/images\/photos\/ottawa_backyard_1.jpg",
-		"outputAbbreviatedPath": "\/app\/assets\/images\/photos\/ottawa_backyard_1.jpg",
+		"initialSize": 153599,
+		"inputAbbreviatedPath": "\/app\/assets\/images\/photos\/4.jpg",
+		"outputAbbreviatedPath": "\/app\/assets\/images\/photos\/4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/app\/assets\/images\/photos\/ottawa_house1.jpg": {
+	"\/app\/assets\/images\/photos\/5.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 109152,
-		"inputAbbreviatedPath": "\/app\/assets\/images\/photos\/ottawa_house1.jpg",
-		"outputAbbreviatedPath": "\/app\/assets\/images\/photos\/ottawa_house1.jpg",
+		"initialSize": 145690,
+		"inputAbbreviatedPath": "\/app\/assets\/images\/photos\/5.jpg",
+		"outputAbbreviatedPath": "\/app\/assets\/images\/photos\/5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/app\/assets\/images\/photos\/retaining_wall_gat.jpg": {
+	"\/app\/assets\/images\/photos\/6.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 93376,
-		"inputAbbreviatedPath": "\/app\/assets\/images\/photos\/retaining_wall_gat.jpg",
-		"outputAbbreviatedPath": "\/app\/assets\/images\/photos\/retaining_wall_gat.jpg",
+		"initialSize": 114464,
+		"inputAbbreviatedPath": "\/app\/assets\/images\/photos\/6.jpg",
+		"outputAbbreviatedPath": "\/app\/assets\/images\/photos\/6.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/app\/assets\/images\/photos\/vars_entryway.jpg": {
+	"\/app\/assets\/images\/photos\/7.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 73194,
-		"inputAbbreviatedPath": "\/app\/assets\/images\/photos\/vars_entryway.jpg",
-		"outputAbbreviatedPath": "\/app\/assets\/images\/photos\/vars_entryway.jpg",
+		"initialSize": 93972,
+		"inputAbbreviatedPath": "\/app\/assets\/images\/photos\/7.jpg",
+		"outputAbbreviatedPath": "\/app\/assets\/images\/photos\/7.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/app\/assets\/images\/photos\/vars_front_1.jpg": {
+	"\/app\/assets\/images\/photos\/8.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 88968,
-		"inputAbbreviatedPath": "\/app\/assets\/images\/photos\/vars_front_1.jpg",
-		"outputAbbreviatedPath": "\/app\/assets\/images\/photos\/vars_front_1.jpg",
+		"initialSize": 157440,
+		"inputAbbreviatedPath": "\/app\/assets\/images\/photos\/8.jpg",
+		"outputAbbreviatedPath": "\/app\/assets\/images\/photos\/8.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/app\/assets\/images\/photos\/vars_steps.jpg": {
+	"\/app\/assets\/images\/photos\/9.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 62860,
-		"inputAbbreviatedPath": "\/app\/assets\/images\/photos\/vars_steps.jpg",
-		"outputAbbreviatedPath": "\/app\/assets\/images\/photos\/vars_steps.jpg",
+		"initialSize": 336472,
+		"inputAbbreviatedPath": "\/app\/assets\/images\/photos\/9.jpg",
+		"outputAbbreviatedPath": "\/app\/assets\/images\/photos\/9.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/app\/assets\/javascripts\/application.js": {
 		"fileType": 64,
@@ -406,23 +442,16 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/app\/views\/static_pages\/prices.html.erb": {
-		"fileType": 8192,
-		"ignore": 0,
+	"\/codekit-config.json": {
+		"fileType": 524288,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/views\/static_pages\/prices.html.erb",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/codekit-config.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/codekit-config-min.json",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/app\/views\/static_pages\/prix.html.erb": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/views\/static_pages\/prix.html.erb",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
 		},
 	"\/public\/404.html": {
 		"fileType": 8192,
@@ -451,475 +480,346 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/public\/assets\/application-0f9997458dd6cde437403bdd39fc763b.js": {
+	"\/public\/assets\/application-3428e82709d7645135002c8fadfafdc6.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/public\/assets\/application-0f9997458dd6cde437403bdd39fc763b.js",
-		"outputAbbreviatedPath": "\/public\/assets\/min\/application-0f9997458dd6cde437403bdd39fc763b-ck.js",
+		"inputAbbreviatedPath": "\/public\/assets\/application-3428e82709d7645135002c8fadfafdc6.js",
+		"outputAbbreviatedPath": "\/public\/assets\/min\/application-3428e82709d7645135002c8fadfafdc6-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/public\/assets\/application-c6d8dbcbebfdd6086742239cba8060a2.css": {
+	"\/public\/assets\/application-7270767b2a9e9fff880aa5de378ca791.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/public\/assets\/application-c6d8dbcbebfdd6086742239cba8060a2.css",
+		"inputAbbreviatedPath": "\/public\/assets\/application-7270767b2a9e9fff880aa5de378ca791.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/public\/assets\/application.css": {
+	"\/public\/assets\/bootstrap-glyphicons-0579b07646db751889f79e6743d46c89.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/public\/assets\/application.css",
+		"inputAbbreviatedPath": "\/public\/assets\/bootstrap-glyphicons-0579b07646db751889f79e6743d46c89.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/public\/assets\/application.js": {
+	"\/public\/assets\/bootstrap.min-2cf09ad3129b19bfe9497902faf2a562.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/public\/assets\/application.js",
-		"outputAbbreviatedPath": "\/public\/assets\/min\/application-ck.js",
+		"inputAbbreviatedPath": "\/public\/assets\/bootstrap.min-2cf09ad3129b19bfe9497902faf2a562.js",
+		"outputAbbreviatedPath": "\/public\/assets\/min\/bootstrap.min-2cf09ad3129b19bfe9497902faf2a562-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/public\/assets\/logo original-695f396e9b6a17dc0efc0d0635812295.jpg": {
+	"\/public\/assets\/bootstrap.min-a6a64c69364e4315135c8587ef2a7082.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/assets\/bootstrap.min-a6a64c69364e4315135c8587ef2a7082.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/assets\/custom.css-a0f8fdf69a9a8a59ceba30ec53b824f6.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/assets\/custom.css-a0f8fdf69a9a8a59ceba30ec53b824f6.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/assets\/jquery-1.10.2.min-63dd474925ce36665874947612a88083.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/assets\/jquery-1.10.2.min-63dd474925ce36665874947612a88083.js",
+		"outputAbbreviatedPath": "\/public\/assets\/min\/jquery-1.10.2.min-63dd474925ce36665874947612a88083-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/public\/assets\/jquery-ui-981f2b5d3350792fb0e4ced4d69972af.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/assets\/jquery-ui-981f2b5d3350792fb0e4ced4d69972af.js",
+		"outputAbbreviatedPath": "\/public\/assets\/min\/jquery-ui-981f2b5d3350792fb0e4ced4d69972af-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/public\/assets\/jquery-ui.min-252979868d0b0cea0b5e7add5f7ae4da.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/assets\/jquery-ui.min-252979868d0b0cea0b5e7add5f7ae4da.js",
+		"outputAbbreviatedPath": "\/public\/assets\/min\/jquery-ui.min-252979868d0b0cea0b5e7add5f7ae4da-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/public\/assets\/logo original-e2c8fe5c38c8bc7794a3f6bf19a742f4.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 36267,
-		"inputAbbreviatedPath": "\/public\/assets\/logo original-695f396e9b6a17dc0efc0d0635812295.jpg",
-		"outputAbbreviatedPath": "\/public\/assets\/logo original-695f396e9b6a17dc0efc0d0635812295.jpg",
+		"inputAbbreviatedPath": "\/public\/assets\/logo original-e2c8fe5c38c8bc7794a3f6bf19a742f4.jpg",
+		"outputAbbreviatedPath": "\/public\/assets\/logo original-e2c8fe5c38c8bc7794a3f6bf19a742f4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/public\/assets\/logo original.jpg": {
-		"fileType": 16384,
+	"\/public\/assets\/logo-8c500644aac291d36e2eb4cda2ba159f.png": {
+		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 36267,
-		"inputAbbreviatedPath": "\/public\/assets\/logo original.jpg",
-		"outputAbbreviatedPath": "\/public\/assets\/logo original.jpg",
+		"initialSize": 7410,
+		"inputAbbreviatedPath": "\/public\/assets\/logo-8c500644aac291d36e2eb4cda2ba159f.png",
+		"outputAbbreviatedPath": "\/public\/assets\/logo-8c500644aac291d36e2eb4cda2ba159f.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/public\/assets\/logo-29973fccb5d033dc1b71d96f59880750.jpg": {
+	"\/public\/assets\/logo-924e1b0aeafbd313e6e32dbeb578fe6f.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 20193,
-		"inputAbbreviatedPath": "\/public\/assets\/logo-29973fccb5d033dc1b71d96f59880750.jpg",
-		"outputAbbreviatedPath": "\/public\/assets\/logo-29973fccb5d033dc1b71d96f59880750.jpg",
+		"inputAbbreviatedPath": "\/public\/assets\/logo-924e1b0aeafbd313e6e32dbeb578fe6f.jpg",
+		"outputAbbreviatedPath": "\/public\/assets\/logo-924e1b0aeafbd313e6e32dbeb578fe6f.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/public\/assets\/logo-fea1f007fbda87f56c8b09a9b6c6728b.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 21090,
-		"inputAbbreviatedPath": "\/public\/assets\/logo-fea1f007fbda87f56c8b09a9b6c6728b.png",
-		"outputAbbreviatedPath": "\/public\/assets\/logo-fea1f007fbda87f56c8b09a9b6c6728b.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/assets\/logo.jpg": {
+	"\/public\/assets\/photos\/1-0d245e4a42d783972b11179920c77310.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 20193,
-		"inputAbbreviatedPath": "\/public\/assets\/logo.jpg",
-		"outputAbbreviatedPath": "\/public\/assets\/logo.jpg",
+		"initialSize": 152666,
+		"inputAbbreviatedPath": "\/public\/assets\/photos\/1-0d245e4a42d783972b11179920c77310.jpg",
+		"outputAbbreviatedPath": "\/public\/assets\/photos\/1-0d245e4a42d783972b11179920c77310.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/public\/assets\/logo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 21090,
-		"inputAbbreviatedPath": "\/public\/assets\/logo.png",
-		"outputAbbreviatedPath": "\/public\/assets\/logo.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/assets\/photos\/metcalfe_pathway-1420bc46303db4ee83e884f0c230c7ff.jpg": {
+	"\/public\/assets\/photos\/10-79aba233366cba8fc95f170c6cabb2a6.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 82638,
-		"inputAbbreviatedPath": "\/public\/assets\/photos\/metcalfe_pathway-1420bc46303db4ee83e884f0c230c7ff.jpg",
-		"outputAbbreviatedPath": "\/public\/assets\/photos\/metcalfe_pathway-1420bc46303db4ee83e884f0c230c7ff.jpg",
+		"initialSize": 326717,
+		"inputAbbreviatedPath": "\/public\/assets\/photos\/10-79aba233366cba8fc95f170c6cabb2a6.jpg",
+		"outputAbbreviatedPath": "\/public\/assets\/photos\/10-79aba233366cba8fc95f170c6cabb2a6.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/public\/assets\/photos\/metcalfe_pathway.jpg": {
+	"\/public\/assets\/photos\/11-522e0510ec30f6a41ef64107760e784d.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 82638,
-		"inputAbbreviatedPath": "\/public\/assets\/photos\/metcalfe_pathway.jpg",
-		"outputAbbreviatedPath": "\/public\/assets\/photos\/metcalfe_pathway.jpg",
+		"initialSize": 146241,
+		"inputAbbreviatedPath": "\/public\/assets\/photos\/11-522e0510ec30f6a41ef64107760e784d.jpg",
+		"outputAbbreviatedPath": "\/public\/assets\/photos\/11-522e0510ec30f6a41ef64107760e784d.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/public\/assets\/photos\/metcalfe_stairs-bec41c7821098b962f012404b9355068.jpg": {
+	"\/public\/assets\/photos\/12-8a13c11aed9bf620a6330af092be930b.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 86519,
-		"inputAbbreviatedPath": "\/public\/assets\/photos\/metcalfe_stairs-bec41c7821098b962f012404b9355068.jpg",
-		"outputAbbreviatedPath": "\/public\/assets\/photos\/metcalfe_stairs-bec41c7821098b962f012404b9355068.jpg",
+		"initialSize": 572008,
+		"inputAbbreviatedPath": "\/public\/assets\/photos\/12-8a13c11aed9bf620a6330af092be930b.jpg",
+		"outputAbbreviatedPath": "\/public\/assets\/photos\/12-8a13c11aed9bf620a6330af092be930b.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/public\/assets\/photos\/metcalfe_stairs.jpg": {
+	"\/public\/assets\/photos\/13-1fde7c96d3f2bd710900b20ebee77921.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 86519,
-		"inputAbbreviatedPath": "\/public\/assets\/photos\/metcalfe_stairs.jpg",
-		"outputAbbreviatedPath": "\/public\/assets\/photos\/metcalfe_stairs.jpg",
+		"initialSize": 201103,
+		"inputAbbreviatedPath": "\/public\/assets\/photos\/13-1fde7c96d3f2bd710900b20ebee77921.jpg",
+		"outputAbbreviatedPath": "\/public\/assets\/photos\/13-1fde7c96d3f2bd710900b20ebee77921.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/public\/assets\/photos\/originals\/metcalfe_pathway-9b5f1bd9c3b662503ec9efd63ea1b43b.jpg": {
+	"\/public\/assets\/photos\/14-b32292f0d147eb4dcb8d489bc4a0b456.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 143325,
-		"inputAbbreviatedPath": "\/public\/assets\/photos\/originals\/metcalfe_pathway-9b5f1bd9c3b662503ec9efd63ea1b43b.jpg",
-		"outputAbbreviatedPath": "\/public\/assets\/photos\/originals\/metcalfe_pathway-9b5f1bd9c3b662503ec9efd63ea1b43b.jpg",
+		"initialSize": 191276,
+		"inputAbbreviatedPath": "\/public\/assets\/photos\/14-b32292f0d147eb4dcb8d489bc4a0b456.jpg",
+		"outputAbbreviatedPath": "\/public\/assets\/photos\/14-b32292f0d147eb4dcb8d489bc4a0b456.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/public\/assets\/photos\/originals\/metcalfe_pathway.jpg": {
+	"\/public\/assets\/photos\/15-f4212a78e22f9c13cb042e85918a4b4f.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 143325,
-		"inputAbbreviatedPath": "\/public\/assets\/photos\/originals\/metcalfe_pathway.jpg",
-		"outputAbbreviatedPath": "\/public\/assets\/photos\/originals\/metcalfe_pathway.jpg",
+		"initialSize": 133071,
+		"inputAbbreviatedPath": "\/public\/assets\/photos\/15-f4212a78e22f9c13cb042e85918a4b4f.jpg",
+		"outputAbbreviatedPath": "\/public\/assets\/photos\/15-f4212a78e22f9c13cb042e85918a4b4f.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/public\/assets\/photos\/originals\/metcalfe_stairs-ccc14969c85e583078f7c8bfefe1fd52.jpg": {
+	"\/public\/assets\/photos\/16-c4bbb0b69227fee35c3ed71ad62223c5.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 122435,
-		"inputAbbreviatedPath": "\/public\/assets\/photos\/originals\/metcalfe_stairs-ccc14969c85e583078f7c8bfefe1fd52.jpg",
-		"outputAbbreviatedPath": "\/public\/assets\/photos\/originals\/metcalfe_stairs-ccc14969c85e583078f7c8bfefe1fd52.jpg",
+		"initialSize": 119628,
+		"inputAbbreviatedPath": "\/public\/assets\/photos\/16-c4bbb0b69227fee35c3ed71ad62223c5.jpg",
+		"outputAbbreviatedPath": "\/public\/assets\/photos\/16-c4bbb0b69227fee35c3ed71ad62223c5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/public\/assets\/photos\/originals\/metcalfe_stairs.jpg": {
+	"\/public\/assets\/photos\/2-ac7bd933a991e28c84ccabcea076248b.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 122435,
-		"inputAbbreviatedPath": "\/public\/assets\/photos\/originals\/metcalfe_stairs.jpg",
-		"outputAbbreviatedPath": "\/public\/assets\/photos\/originals\/metcalfe_stairs.jpg",
+		"initialSize": 149921,
+		"inputAbbreviatedPath": "\/public\/assets\/photos\/2-ac7bd933a991e28c84ccabcea076248b.jpg",
+		"outputAbbreviatedPath": "\/public\/assets\/photos\/2-ac7bd933a991e28c84ccabcea076248b.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/public\/assets\/photos\/originals\/ottawa_backyard_1-1c0501191df9a3fcc170f854f0f42ead.jpg": {
+	"\/public\/assets\/photos\/3-1735235b0b3d97febcf77004a5f0bade.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 107843,
-		"inputAbbreviatedPath": "\/public\/assets\/photos\/originals\/ottawa_backyard_1-1c0501191df9a3fcc170f854f0f42ead.jpg",
-		"outputAbbreviatedPath": "\/public\/assets\/photos\/originals\/ottawa_backyard_1-1c0501191df9a3fcc170f854f0f42ead.jpg",
+		"initialSize": 162132,
+		"inputAbbreviatedPath": "\/public\/assets\/photos\/3-1735235b0b3d97febcf77004a5f0bade.jpg",
+		"outputAbbreviatedPath": "\/public\/assets\/photos\/3-1735235b0b3d97febcf77004a5f0bade.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/public\/assets\/photos\/originals\/ottawa_backyard_1.jpg": {
+	"\/public\/assets\/photos\/4-c4729b56b4778e05719d0bdd006acfcc.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 107843,
-		"inputAbbreviatedPath": "\/public\/assets\/photos\/originals\/ottawa_backyard_1.jpg",
-		"outputAbbreviatedPath": "\/public\/assets\/photos\/originals\/ottawa_backyard_1.jpg",
+		"initialSize": 143516,
+		"inputAbbreviatedPath": "\/public\/assets\/photos\/4-c4729b56b4778e05719d0bdd006acfcc.jpg",
+		"outputAbbreviatedPath": "\/public\/assets\/photos\/4-c4729b56b4778e05719d0bdd006acfcc.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/public\/assets\/photos\/originals\/ottawa_house1-510b34eb7622798b8c739c11100346db.jpg": {
+	"\/public\/assets\/photos\/5-547228584e3a6ed8e5e6117dfb27e5f7.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 109152,
-		"inputAbbreviatedPath": "\/public\/assets\/photos\/originals\/ottawa_house1-510b34eb7622798b8c739c11100346db.jpg",
-		"outputAbbreviatedPath": "\/public\/assets\/photos\/originals\/ottawa_house1-510b34eb7622798b8c739c11100346db.jpg",
+		"initialSize": 136917,
+		"inputAbbreviatedPath": "\/public\/assets\/photos\/5-547228584e3a6ed8e5e6117dfb27e5f7.jpg",
+		"outputAbbreviatedPath": "\/public\/assets\/photos\/5-547228584e3a6ed8e5e6117dfb27e5f7.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/public\/assets\/photos\/originals\/ottawa_house1.jpg": {
+	"\/public\/assets\/photos\/6-543333d817b65f3659815cd26140ad02.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 109152,
-		"inputAbbreviatedPath": "\/public\/assets\/photos\/originals\/ottawa_house1.jpg",
-		"outputAbbreviatedPath": "\/public\/assets\/photos\/originals\/ottawa_house1.jpg",
+		"initialSize": 106407,
+		"inputAbbreviatedPath": "\/public\/assets\/photos\/6-543333d817b65f3659815cd26140ad02.jpg",
+		"outputAbbreviatedPath": "\/public\/assets\/photos\/6-543333d817b65f3659815cd26140ad02.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/public\/assets\/photos\/originals\/retaining_wall_gat-6ae47a9e2a426f8b00c64aad26d8b4e3.jpg": {
+	"\/public\/assets\/photos\/7-1570a6e3582bee09c3e4b7f1cab95730.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 561649,
-		"inputAbbreviatedPath": "\/public\/assets\/photos\/originals\/retaining_wall_gat-6ae47a9e2a426f8b00c64aad26d8b4e3.jpg",
-		"outputAbbreviatedPath": "\/public\/assets\/photos\/originals\/retaining_wall_gat-6ae47a9e2a426f8b00c64aad26d8b4e3.jpg",
+		"initialSize": 85972,
+		"inputAbbreviatedPath": "\/public\/assets\/photos\/7-1570a6e3582bee09c3e4b7f1cab95730.jpg",
+		"outputAbbreviatedPath": "\/public\/assets\/photos\/7-1570a6e3582bee09c3e4b7f1cab95730.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/public\/assets\/photos\/originals\/retaining_wall_gat.jpg": {
+	"\/public\/assets\/photos\/8-3bf2cbb5672bf21fb08a8f5af60aca8c.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 561649,
-		"inputAbbreviatedPath": "\/public\/assets\/photos\/originals\/retaining_wall_gat.jpg",
-		"outputAbbreviatedPath": "\/public\/assets\/photos\/originals\/retaining_wall_gat.jpg",
+		"initialSize": 148481,
+		"inputAbbreviatedPath": "\/public\/assets\/photos\/8-3bf2cbb5672bf21fb08a8f5af60aca8c.jpg",
+		"outputAbbreviatedPath": "\/public\/assets\/photos\/8-3bf2cbb5672bf21fb08a8f5af60aca8c.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/public\/assets\/photos\/originals\/vars_entryway-90fdc4a15f9e9ba894b15a9820111c61.jpg": {
+	"\/public\/assets\/photos\/9-e8f1a5c7be0bb190d2996c5c4e0c74ad.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 96693,
-		"inputAbbreviatedPath": "\/public\/assets\/photos\/originals\/vars_entryway-90fdc4a15f9e9ba894b15a9820111c61.jpg",
-		"outputAbbreviatedPath": "\/public\/assets\/photos\/originals\/vars_entryway-90fdc4a15f9e9ba894b15a9820111c61.jpg",
+		"initialSize": 306557,
+		"inputAbbreviatedPath": "\/public\/assets\/photos\/9-e8f1a5c7be0bb190d2996c5c4e0c74ad.jpg",
+		"outputAbbreviatedPath": "\/public\/assets\/photos\/9-e8f1a5c7be0bb190d2996c5c4e0c74ad.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/public\/assets\/photos\/originals\/vars_entryway.jpg": {
-		"fileType": 16384,
+	"\/public\/assets\/static_pages-e67319358771a3f0c0b37bcb8e301c39.js": {
+		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 96693,
-		"inputAbbreviatedPath": "\/public\/assets\/photos\/originals\/vars_entryway.jpg",
-		"outputAbbreviatedPath": "\/public\/assets\/photos\/originals\/vars_entryway.jpg",
+		"inputAbbreviatedPath": "\/public\/assets\/static_pages-e67319358771a3f0c0b37bcb8e301c39.js",
+		"outputAbbreviatedPath": "\/public\/assets\/min\/static_pages-e67319358771a3f0c0b37bcb8e301c39-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
 		},
-	"\/public\/assets\/photos\/originals\/vars_front_1-7016c5ff843c457e063a800808dab2d3.jpg": {
-		"fileType": 16384,
+	"\/public\/assets\/static_pages.css-7270767b2a9e9fff880aa5de378ca791.css": {
+		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 88371,
-		"inputAbbreviatedPath": "\/public\/assets\/photos\/originals\/vars_front_1-7016c5ff843c457e063a800808dab2d3.jpg",
-		"outputAbbreviatedPath": "\/public\/assets\/photos\/originals\/vars_front_1-7016c5ff843c457e063a800808dab2d3.jpg",
+		"inputAbbreviatedPath": "\/public\/assets\/static_pages.css-7270767b2a9e9fff880aa5de378ca791.css",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/assets\/photos\/originals\/vars_front_1.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 88371,
-		"inputAbbreviatedPath": "\/public\/assets\/photos\/originals\/vars_front_1.jpg",
-		"outputAbbreviatedPath": "\/public\/assets\/photos\/originals\/vars_front_1.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/assets\/photos\/originals\/vars_steps-0e317c10800c507cafd656d4628f9525.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 90399,
-		"inputAbbreviatedPath": "\/public\/assets\/photos\/originals\/vars_steps-0e317c10800c507cafd656d4628f9525.jpg",
-		"outputAbbreviatedPath": "\/public\/assets\/photos\/originals\/vars_steps-0e317c10800c507cafd656d4628f9525.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/assets\/photos\/originals\/vars_steps.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 90399,
-		"inputAbbreviatedPath": "\/public\/assets\/photos\/originals\/vars_steps.jpg",
-		"outputAbbreviatedPath": "\/public\/assets\/photos\/originals\/vars_steps.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/assets\/photos\/ottawa_backyard_1-3d325f6bde136b45180c5ea17bab48bc.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 46257,
-		"inputAbbreviatedPath": "\/public\/assets\/photos\/ottawa_backyard_1-3d325f6bde136b45180c5ea17bab48bc.jpg",
-		"outputAbbreviatedPath": "\/public\/assets\/photos\/ottawa_backyard_1-3d325f6bde136b45180c5ea17bab48bc.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/assets\/photos\/ottawa_backyard_1.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 46257,
-		"inputAbbreviatedPath": "\/public\/assets\/photos\/ottawa_backyard_1.jpg",
-		"outputAbbreviatedPath": "\/public\/assets\/photos\/ottawa_backyard_1.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/assets\/photos\/ottawa_house1-510b34eb7622798b8c739c11100346db.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 109152,
-		"inputAbbreviatedPath": "\/public\/assets\/photos\/ottawa_house1-510b34eb7622798b8c739c11100346db.jpg",
-		"outputAbbreviatedPath": "\/public\/assets\/photos\/ottawa_house1-510b34eb7622798b8c739c11100346db.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/assets\/photos\/ottawa_house1.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 109152,
-		"inputAbbreviatedPath": "\/public\/assets\/photos\/ottawa_house1.jpg",
-		"outputAbbreviatedPath": "\/public\/assets\/photos\/ottawa_house1.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/assets\/photos\/retaining_wall_gat-22378a162845eb35a4002d81aa71a507.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 93376,
-		"inputAbbreviatedPath": "\/public\/assets\/photos\/retaining_wall_gat-22378a162845eb35a4002d81aa71a507.jpg",
-		"outputAbbreviatedPath": "\/public\/assets\/photos\/retaining_wall_gat-22378a162845eb35a4002d81aa71a507.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/assets\/photos\/retaining_wall_gat.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 93376,
-		"inputAbbreviatedPath": "\/public\/assets\/photos\/retaining_wall_gat.jpg",
-		"outputAbbreviatedPath": "\/public\/assets\/photos\/retaining_wall_gat.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/assets\/photos\/vars_entryway-b6f5308267499beeaebec6f805a386da.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 73194,
-		"inputAbbreviatedPath": "\/public\/assets\/photos\/vars_entryway-b6f5308267499beeaebec6f805a386da.jpg",
-		"outputAbbreviatedPath": "\/public\/assets\/photos\/vars_entryway-b6f5308267499beeaebec6f805a386da.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/assets\/photos\/vars_entryway.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 73194,
-		"inputAbbreviatedPath": "\/public\/assets\/photos\/vars_entryway.jpg",
-		"outputAbbreviatedPath": "\/public\/assets\/photos\/vars_entryway.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/assets\/photos\/vars_front_1-83a30e8412eb0d53dc7bb2d444d7596a.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 88968,
-		"inputAbbreviatedPath": "\/public\/assets\/photos\/vars_front_1-83a30e8412eb0d53dc7bb2d444d7596a.jpg",
-		"outputAbbreviatedPath": "\/public\/assets\/photos\/vars_front_1-83a30e8412eb0d53dc7bb2d444d7596a.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/assets\/photos\/vars_front_1.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 88968,
-		"inputAbbreviatedPath": "\/public\/assets\/photos\/vars_front_1.jpg",
-		"outputAbbreviatedPath": "\/public\/assets\/photos\/vars_front_1.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/assets\/photos\/vars_steps-059383e724b96aa452c47f68eb9855da.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 62860,
-		"inputAbbreviatedPath": "\/public\/assets\/photos\/vars_steps-059383e724b96aa452c47f68eb9855da.jpg",
-		"outputAbbreviatedPath": "\/public\/assets\/photos\/vars_steps-059383e724b96aa452c47f68eb9855da.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/assets\/photos\/vars_steps.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 62860,
-		"inputAbbreviatedPath": "\/public\/assets\/photos\/vars_steps.jpg",
-		"outputAbbreviatedPath": "\/public\/assets\/photos\/vars_steps.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"outputPathIsSetByUser": 0
 		},
 	"\/README.md": {
-		"enableFootnoteSupport": 0,
-		"enableSmartyPants": 1,
-		"expandTabs": 1,
+		"criticStyle": 0,
+		"enableFootnotes": 0,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
 		"fileType": 4096,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/README.md",
+		"maskEmailAddresses": 1,
 		"outputAbbreviatedPath": "\/README.html",
+		"outputFormat": 0,
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
 		}
 	},
 "hooks": [
@@ -931,7 +831,7 @@
 	"bowerAbbreviatedPath": "",
 	"displayValue": "de-deco",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "pencil_yellow"
+	"iconImageName": "meme-cocaine"
 	},
 "projectSettings": {
 	"alwaysUseExternalServer": 0,
@@ -940,6 +840,8 @@
 	"autoprefixerBrowserString": "> 1%, last 2 versions, ff 17, opera 12.1",
 	"autoSyncProjectSettingsFile": 1,
 	"browserRefreshDelay": 0,
+	"coffeeAutoOutputPathEnabled": 1,
+	"coffeeAutoOutputPathFilenamePattern": "*.js",
 	"coffeeAutoOutputPathRelativePath": "",
 	"coffeeAutoOutputPathReplace1": "",
 	"coffeeAutoOutputPathReplace2": "",
@@ -951,7 +853,7 @@
 			"flagValue": -1
 			},
 		"camel_case_classes": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"colon_assignment_spacing": {
@@ -963,15 +865,19 @@
 			"flagValue": 10
 			},
 		"duplicate_key": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"empty_constructor_needs_parens": {
 			"active": 0,
 			"flagValue": -1
 			},
+		"ensure_comprehensions": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"indentation": {
-			"active": 1,
+			"active": 0,
 			"flagValue": 2
 			},
 		"line_endings": {
@@ -990,12 +896,16 @@
 			"active": 0,
 			"flagValue": 3
 			},
-		"no-unnecessary_fat_arrows": {
-			"active": 1,
+		"no_backticks": {
+			"active": 0,
 			"flagValue": -1
 			},
-		"no_backticks": {
-			"active": 1,
+		"no_debugger": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_empty_functions": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"no_empty_param_list": {
@@ -1003,10 +913,14 @@
 			"flagValue": -1
 			},
 		"no_implicit_braces": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"no_implicit_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_interpolation_in_single_quotes": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -1015,30 +929,46 @@
 			"flagValue": -1
 			},
 		"no_stand_alone_at": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"no_tabs": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"no_throwing_strings": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"no_trailing_semicolons": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"no_trailing_whitespace": {
-			"active": 1,
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_unnecessary_double_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_unnecessary_fat_arrows": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"non_empty_constructor_needs_parens": {
 			"active": 0,
 			"flagValue": -1
 			},
+		"prefer_english_operator": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"space_operators": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"spacing_after_comma": {
 			"active": 0,
 			"flagValue": -1
 			}
@@ -1049,6 +979,8 @@
 	"externalServerAddress": "http:\/\/localhost:8888",
 	"externalServerPreviewPathAddition": "",
 	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
+	"hamlAutoOutputPathEnabled": 1,
+	"hamlAutoOutputPathFilenamePattern": "*.html",
 	"hamlAutoOutputPathRelativePath": "",
 	"hamlAutoOutputPathReplace1": "",
 	"hamlAutoOutputPathReplace2": "",
@@ -1060,19 +992,22 @@
 	"hamlUseCDATA": 0,
 	"hamlUseDoubleQuotes": 0,
 	"hamlUseUnixNewlines": 0,
+	"jadeAutoOutputPathEnabled": 1,
+	"jadeAutoOutputPathFilenamePattern": "*.html",
 	"jadeAutoOutputPathRelativePath": "",
 	"jadeAutoOutputPathReplace1": "",
 	"jadeAutoOutputPathReplace2": "",
 	"jadeAutoOutputPathStyle": 0,
 	"jadeCompileDebug": 1,
 	"jadeOutputStyle": 0,
+	"javascriptAutoOutputPathEnabled": 1,
+	"javascriptAutoOutputPathFilenamePattern": "*-min.js",
 	"javascriptAutoOutputPathRelativePath": "\/min",
 	"javascriptAutoOutputPathReplace1": "",
 	"javascriptAutoOutputPathReplace2": "",
 	"javascriptAutoOutputPathStyle": 2,
 	"javascriptCreateSourceMap": 1,
 	"javascriptOutputStyle": 1,
-	"javascriptOutputSuffix": "-ck",
 	"javascriptSyntaxCheckerStyle": 1,
 	"jsCheckerReservedNamesString": "",
 	"jsHintFlags2": {
@@ -1081,7 +1016,7 @@
 			"flagValue": -1
 			},
 		"bitwise": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"boss": {
@@ -1089,7 +1024,11 @@
 			"flagValue": -1
 			},
 		"browser": {
-			"active": 1,
+			"active": 0,
+			"flagValue": -1
+			},
+		"browserify": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"camelcase": {
@@ -1101,7 +1040,7 @@
 			"flagValue": -1
 			},
 		"curly": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"debug": {
@@ -1116,8 +1055,12 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"elision": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"eqeqeq": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"eqnull": {
@@ -1145,14 +1088,14 @@
 			"flagValue": -1
 			},
 		"freeze": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"funcscope": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"gcl": {
+		"futurehostile": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -1172,8 +1115,12 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"jasmine": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"jquery": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"lastsemic": {
@@ -1181,7 +1128,7 @@
 			"flagValue": -1
 			},
 		"latedef": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"laxbreak": {
@@ -1216,6 +1163,10 @@
 			"active": 0,
 			"flagValue": 4
 			},
+		"mocha": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"mootools": {
 			"active": 0,
 			"flagValue": -1
@@ -1229,11 +1180,15 @@
 			"flagValue": -1
 			},
 		"newcap": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"noarg": {
-			"active": 1,
+			"active": 0,
+			"flagValue": -1
+			},
+		"nocomma": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"node": {
@@ -1249,7 +1204,7 @@
 			"flagValue": -1
 			},
 		"nonew": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"nonstandard": {
@@ -1257,7 +1212,7 @@
 			"flagValue": -1
 			},
 		"notypeof": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"noyield": {
@@ -1265,10 +1220,6 @@
 			"flagValue": -1
 			},
 		"onecase": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"onevar": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -1288,8 +1239,12 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"qunit": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"regexp": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"rhino": {
@@ -1308,7 +1263,7 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"smarttabs": {
+		"singleGroups": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -1324,23 +1279,19 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"trailing": {
-			"active": 1,
-			"flagValue": -1
-			},
 		"typed": {
 			"active": 0,
 			"flagValue": -1
 			},
 		"undef": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"unused": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
-		"white": {
+		"varstmt": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -1467,11 +1418,23 @@
 			"flagValue": -1
 			}
 		},
+	"jsonAutoOutputPathEnabled": 0,
+	"jsonAutoOutputPathFilenamePattern": "*-min.json",
+	"jsonAutoOutputPathRelativePath": "",
+	"jsonAutoOutputPathReplace1": "",
+	"jsonAutoOutputPathReplace2": "",
+	"jsonAutoOutputPathStyle": 0,
+	"jsonOrderOutput": 0,
+	"jsonOutputStyle": 1,
+	"kitAutoOutputPathEnabled": 1,
+	"kitAutoOutputPathFilenamePattern": "*.html",
 	"kitAutoOutputPathRelativePath": "",
 	"kitAutoOutputPathReplace1": "",
 	"kitAutoOutputPathReplace2": "",
 	"kitAutoOutputPathStyle": 0,
 	"lessAllowInsecureImports": 0,
+	"lessAutoOutputPathEnabled": 1,
+	"lessAutoOutputPathFilenamePattern": "*.css",
 	"lessAutoOutputPathRelativePath": "..\/css",
 	"lessAutoOutputPathReplace1": "less",
 	"lessAutoOutputPathReplace2": "css",
@@ -1484,14 +1447,27 @@
 	"lessStrictImports": 0,
 	"lessStrictMath": 0,
 	"lessStrictUnits": 0,
+	"markdownAutoOutputPathEnabled": 1,
+	"markdownAutoOutputPathFilenamePattern": "*.html",
 	"markdownAutoOutputPathRelativePath": "",
 	"markdownAutoOutputPathReplace1": "",
 	"markdownAutoOutputPathReplace2": "",
 	"markdownAutoOutputPathStyle": 0,
+	"markdownCriticStyle": 0,
 	"markdownEnableFootnotes": 0,
-	"markdownEnableSmartyPants": 1,
-	"markdownExpandTabs": 1,
+	"markdownEnableLabels": 1,
+	"markdownEnableSmartQuotes": 1,
+	"markdownEscapeLineBreaks": 0,
+	"markdownMaskEmailAddresses": 1,
+	"markdownOutputFormat": 0,
+	"markdownOutputStyle": 0,
+	"markdownParseMetadata": 1,
+	"markdownProcessHTML": 0,
+	"markdownRandomFootnoteNumbers": 0,
+	"markdownUseCompatibilityMode": 0,
 	"reloadFileURLs": 0,
+	"sassAutoOutputPathEnabled": 1,
+	"sassAutoOutputPathFilenamePattern": "*.css",
 	"sassAutoOutputPathRelativePath": "..\/css",
 	"sassAutoOutputPathReplace1": "sass",
 	"sassAutoOutputPathReplace2": "css",
@@ -1504,22 +1480,30 @@
 	"shouldRunAutoprefixer": 0,
 	"shouldRunBless": 0,
 	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs",
+	"slimAutoOutputPathEnabled": 1,
+	"slimAutoOutputPathFilenamePattern": "*.html",
 	"slimAutoOutputPathRelativePath": "",
 	"slimAutoOutputPathReplace1": "",
 	"slimAutoOutputPathReplace2": "",
 	"slimAutoOutputPathStyle": 0,
 	"slimCompileOnly": 0,
 	"slimLogicless": 0,
+	"slimOutputFormat": 0,
 	"slimOutputStyle": 1,
 	"slimRailsCompatible": 0,
+	"stylusAutoOutputPathEnabled": 1,
+	"stylusAutoOutputPathFilenamePattern": "*.css",
 	"stylusAutoOutputPathRelativePath": "..\/css",
 	"stylusAutoOutputPathReplace1": "stylus",
 	"stylusAutoOutputPathReplace2": "css",
 	"stylusAutoOutputPathStyle": 2,
+	"stylusCreateSourceMap": 0,
 	"stylusDebugStyle": 0,
 	"stylusImportCSS": 0,
 	"stylusOutputStyle": 0,
 	"stylusResolveRelativeURLS": 0,
+	"typescriptAutoOutputPathEnabled": 1,
+	"typescriptAutoOutputPathFilenamePattern": "*.js",
 	"typescriptAutoOutputPathRelativePath": "\/js",
 	"typescriptAutoOutputPathReplace1": "",
 	"typescriptAutoOutputPathReplace2": "",
@@ -1529,8 +1513,9 @@
 	"typescriptMinifyOutput": 0,
 	"typescriptModuleType": 0,
 	"typescriptNoImplicitAny": 0,
-	"typescriptNoResolve": 0,
+	"typescriptPreserveConstEnums": 0,
 	"typescriptRemoveComments": 0,
+	"typescriptSuppressImplicitAnyIndexErrors": 0,
 	"typescriptTargetECMAVersion": 0,
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
@@ -1538,8 +1523,12 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"bare-returns": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"booleans": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"bracketize": {
@@ -1547,31 +1536,35 @@
 			"flagValue": -1
 			},
 		"cascade": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"comments": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"comparisons": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"compress": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"conditionals": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"dead_code": {
 			"active": 0,
 			"flagValue": -1
 			},
+		"drop_console": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"drop_debugger": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"eval": {
@@ -1579,11 +1572,11 @@
 			"flagValue": -1
 			},
 		"evaluate": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"hoist_funs": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"hoist_vars": {
@@ -1591,7 +1584,7 @@
 			"flagValue": -1
 			},
 		"if_return": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"indent-level": {
@@ -1607,23 +1600,39 @@
 			"flagValue": -1
 			},
 		"join_vars": {
-			"active": 1,
+			"active": 0,
+			"flagValue": -1
+			},
+		"keep_fargs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"keep_fnames": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"loops": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"mangle": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"max-line-len": {
-			"active": 1,
+			"active": 0,
 			"flagValue": 32000
 			},
+		"negate_iife": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"properties": {
-			"active": 1,
+			"active": 0,
+			"flagValue": -1
+			},
+		"pure_getters": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"quote-keys": {
@@ -1635,11 +1644,11 @@
 			"flagValue": -1
 			},
 		"semicolons": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"sequences": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"sort": {
@@ -1647,7 +1656,7 @@
 			"flagValue": -1
 			},
 		"space-colon": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"toplevel": {
@@ -1667,7 +1676,7 @@
 			"flagValue": -1
 			},
 		"width": {
-			"active": 1,
+			"active": 0,
 			"flagValue": 80
 			}
 		},
